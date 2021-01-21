@@ -6,5 +6,6 @@ public class App
     {
         System.out.println( "App of java is started successfully..!!" );
         System.out.println("Hii...users");
+        System.out.println("Hii...users");
     }
 }
